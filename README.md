@@ -1,17 +1,8 @@
-# Nome do meu projeto
+# Projeto Alurinha
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de prática de Flexbox, desenvolvido com o curso FLEXBOX: POSICIONE ELEMENTOS NA TELA através da plataforma da Alura.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Você pode acessar o projeto completo em:
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/95857175/204090036-fd95e247-db98-4930-9006-28c325e0cf46.png#vitrinedev)
 
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
